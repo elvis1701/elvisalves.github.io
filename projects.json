@@ -120,4 +120,15 @@
     "url": "https://github.com/elvis1701/ProjetoLoginJWT"
   },
   {
-    "
+    "name": "ProjetoControleEstoque",
+    "description": "Sistema completo de controle de estoque com interface gráfica.",
+    "technologies": ["C#", "WinForms", "SQL Server"],
+    "url": "https://github.com/elvis1701/ProjetoControleEstoque"
+  },
+  {
+    "name": "ProjetoCadastroProdutos",
+    "description": "Cadastro e gerenciamento de produtos com banco de dados.",
+    "technologies": ["C#", "Entity Framework", "SQL Server"],
+    "url": "https://github.com/elvis1701/ProjetoCadastroProdutos"
+  }
+]
