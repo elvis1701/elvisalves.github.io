@@ -1,40 +1,123 @@
 [
-    {
-        "nome": "Projeto HTML e CSS B\u00e1sico",
-        "descricao": "Exerc\u00edcio b\u00e1sico com estrutura HTML e estiliza\u00e7\u00e3o CSS.",
-        "tecnologias": [
-            "HTML",
-            "CSS"
-        ],
-        "link": "https://github.com/elvis1701/Projeto-HTML-CSS-Basico"
-    },
-    {
-        "nome": "Projeto Lab 2024",
-        "descricao": "Predi\u00e7\u00e3o de alugu\u00e9is de bicicletas com aprendizado de m\u00e1quina.",
-        "tecnologias": [
-            "Python",
-            "ML"
-        ],
-        "link": "https://github.com/elvis1701/Projeto_lab2024"
-    },
-    {
-        "nome": "IA Reconhecimento Facial",
-        "descricao": "Uso do Azure para reconhecimento facial e OCR.",
-        "tecnologias": [
-            "Azure",
-            "OCR",
-            "Python"
-        ],
-        "link": "https://github.com/elvis1701/Lab-IA-ReconhecimentoFacial"
-    },
-    {
-        "nome": "Language Studio",
-        "descricao": "An\u00e1lise de sentimento e convers\u00e3o de fala para texto com IA.",
-        "tecnologias": [
-            "Azure",
-            "IA",
-            "Texto"
-        ],
-        "link": "https://github.com/elvis1701/Lab-IA-Language-Studio"
-    }
-]
+  {
+    "name": "ApiCatalogoJogos",
+    "description": "API para gerenciamento de catálogo de jogos.",
+    "technologies": ["C#", ".NET"],
+    "url": "https://github.com/elvis1701/ApiCatalogoJogos"
+  },
+  {
+    "name": "Projeto-HTML-CSS-Basico",
+    "description": "Site básico com HTML e CSS.",
+    "technologies": ["HTML", "CSS"],
+    "url": "https://github.com/elvis1701/Projeto-HTML-CSS-Basico"
+  },
+  {
+    "name": "SistemaCadastroClientes",
+    "description": "Sistema completo para cadastro de clientes.",
+    "technologies": ["C#", "SQL Server"],
+    "url": "https://github.com/elvis1701/SistemaCadastroClientes"
+  },
+  {
+    "name": "CalculadoraSimples",
+    "description": "Calculadora com operações básicas.",
+    "technologies": ["C#", "WinForms"],
+    "url": "https://github.com/elvis1701/CalculadoraSimples"
+  },
+  {
+    "name": "Projeto-API-RESTful",
+    "description": "API RESTful com autenticação JWT.",
+    "technologies": ["C#", ".NET", "JWT"],
+    "url": "https://github.com/elvis1701/Projeto-API-RESTful"
+  },
+  {
+    "name": "SistemaFinanceiro",
+    "description": "Sistema para controle financeiro pessoal.",
+    "technologies": ["C#", "Entity Framework"],
+    "url": "https://github.com/elvis1701/SistemaFinanceiro"
+  },
+  {
+    "name": "ProjetoWebResponsivo",
+    "description": "Site responsivo com HTML, CSS e JS.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "url": "https://github.com/elvis1701/ProjetoWebResponsivo"
+  },
+  {
+    "name": "SistemaEstoque",
+    "description": "Sistema para controle de estoque.",
+    "technologies": ["C#", "SQL Server"],
+    "url": "https://github.com/elvis1701/SistemaEstoque"
+  },
+  {
+    "name": "ConversorMoedas",
+    "description": "App para conversão de moedas.",
+    "technologies": ["C#", "API"],
+    "url": "https://github.com/elvis1701/ConversorMoedas"
+  },
+  {
+    "name": "AgendaContatos",
+    "description": "Aplicativo para gerenciamento de contatos.",
+    "technologies": ["C#", "WinForms"],
+    "url": "https://github.com/elvis1701/AgendaContatos"
+  },
+  {
+    "name": "ProjetoJSONManipulacao",
+    "description": "Manipulação de arquivos JSON em C#.",
+    "technologies": ["C#", "JSON"],
+    "url": "https://github.com/elvis1701/ProjetoJSONManipulacao"
+  },
+  {
+    "name": "SistemaLogin",
+    "description": "Sistema de login com autenticação.",
+    "technologies": ["C#", ".NET"],
+    "url": "https://github.com/elvis1701/SistemaLogin"
+  },
+  {
+    "name": "ProjetoCRUD",
+    "description": "CRUD completo com Entity Framework.",
+    "technologies": ["C#", "Entity Framework"],
+    "url": "https://github.com/elvis1701/ProjetoCRUD"
+  },
+  {
+    "name": "ProjetoGrafico",
+    "description": "Visualização de dados com gráficos.",
+    "technologies": ["C#", "Chart"],
+    "url": "https://github.com/elvis1701/ProjetoGrafico"
+  },
+  {
+    "name": "SistemaNotas",
+    "description": "Sistema para gerenciamento de notas escolares.",
+    "technologies": ["C#", "SQL Server"],
+    "url": "https://github.com/elvis1701/SistemaNotas"
+  },
+  {
+    "name": "ProjetoMVC",
+    "description": "Aplicação web com padrão MVC.",
+    "technologies": ["C#", "ASP.NET MVC"],
+    "url": "https://github.com/elvis1701/ProjetoMVC"
+  },
+  {
+    "name": "SistemaTarefas",
+    "description": "Gerenciador de tarefas com prioridade.",
+    "technologies": ["C#", "WinForms"],
+    "url": "https://github.com/elvis1701/SistemaTarefas"
+  },
+  {
+    "name": "ProjetoAPIExterna",
+    "description": "Consumo de API externa com C#.",
+    "technologies": ["C#", "API"],
+    "url": "https://github.com/elvis1701/ProjetoAPIExterna"
+  },
+  {
+    "name": "SistemaVendas",
+    "description": "Sistema para controle de vendas.",
+    "technologies": ["C#", "SQL Server"],
+    "url": "https://github.com/elvis1701/SistemaVendas"
+  },
+  {
+    "name": "ProjetoLoginJWT",
+    "description": "Login com autenticação JWT.",
+    "technologies": ["C#", "JWT"],
+    "url": "https://github.com/elvis1701/ProjetoLoginJWT"
+  },
+  {
+    "
